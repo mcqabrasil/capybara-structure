@@ -8,3 +8,4 @@ end
 Then('I should see something') do
   # Call your assertion methods here
 end
+
